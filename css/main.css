@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,700;1,400;1,700&display=swap');
+
+body 
+{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+.main-bg
+{
+    background: #FF8000 url('../images/kebab.jpg');
+    background-position: 35% 65%;
+    background-size: 1920px 1080px;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+header
+{
+    padding-top: 0.1em;
+}
+
+.main-bg a 
+{
+    color: white;
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+h1
+{
+    font-size: 1.2rem;
+}
+h1 span
+{
+    text-transform: uppercase;
+    display: block;
+}
+.virsus p
+{
+    font-weight: bold;
+    font-size: 0.75rem;
+}
+
+h2
+{
+    display: block;
+}
+.des-pastraipa
+{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 1em;
+}
+.des-pastraipa p
+{
+    font-weight: normal;
+}
+.sw img
+{
+    position: absolute;
+    right: 300px;   
+}
